@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * method to initiate request for permissions.
-     * @return
+     * @return no return any value
      */
 
     private void checkPermissions() {
@@ -73,9 +73,9 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Handle the permission result.
-     * @param requestCode
-     * @param permissions
-     * @param grantResults
+     * @param requestCode integer input request code
+     * @param permissions string permission
+     * @param grantResults int array permission request.
      */
 
     @Override

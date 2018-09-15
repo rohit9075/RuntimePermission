@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ExternalPermission</string>
+    <string name="text_checkpermission">CheckPermission</string>
 </resources>
