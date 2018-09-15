@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * method to initiate request for permissions.
-     * @return no return any value
      */
 
     private void checkPermissions() {
